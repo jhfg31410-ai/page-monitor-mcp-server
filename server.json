@@ -14,7 +14,6 @@
     {
       "registryType": "oci",
       "identifier": "ghcr.io/jhfg31410-ai/page-monitor-mcp-server:0.1.0",
-      "version": "0.1.0",
       "transport": {
         "type": "stdio"
       },
