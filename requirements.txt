@@ -1,0 +1,3 @@
+# Cat1 Page Monitor MCP Server 套件清單
+# 本伺服器僅使用 Python >= 3.9 標準函式庫（sys, os, re, html, json, hashlib, difflib, urllib），
+# 無須安裝任何第三方套件即可直接以 python3 server.py 運行。

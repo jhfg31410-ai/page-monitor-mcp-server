@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "page-monitor-mcp-server": {
+      "command": "python3",
+      "args": [
+        "/Users/sunlei/agy-loop/state/cat1-mcp-server/server.py"
+      ],
+      "env": {
+        "CAT1_API_KEY": "YOUR_CAT1_KEY_HERE_OPTIONAL"
+      }
+    }
+  }
+}
