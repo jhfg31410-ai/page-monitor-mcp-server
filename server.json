@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github/jhfg31410-ai/page-monitor-mcp-server",
+  "name": "io.github.jhfg31410-ai/page-monitor-mcp-server",
   "title": "Page Monitor",
   "description": "Deterministic web page change monitoring with SHA-256 evidence; free diff, paid scheduled watch.",
   "status": "active",

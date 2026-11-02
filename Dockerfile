@@ -4,7 +4,7 @@
 FROM python:3.12-slim
 
 # Official MCP Registry OCI 所有權驗證：LABEL 值須與 server.json 之 name 一致（GitHub 帳號 jhfg31410-ai 已填入）
-LABEL io.modelcontextprotocol.server.name="io.github/jhfg31410-ai/page-monitor-mcp-server"
+LABEL io.modelcontextprotocol.server.name="io.github.jhfg31410-ai/page-monitor-mcp-server"
 
 # 避免產生 .pyc，並關閉輸出緩衝，利於 stdio 即時通訊
 ENV PYTHONDONTWRITEBYTECODE=1 \
